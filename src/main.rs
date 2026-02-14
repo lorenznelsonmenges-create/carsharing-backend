@@ -16,7 +16,7 @@ type AppState = SqlitePool;
 #[tokio::main]
 async fn main() {
     // --- NEU: Datenbankverbindung aufbauen ---
-    let db_url = "sqlite:carsharing.db";
+    let db_url = "sqlite:data/carsharing.db";
     let pool = SqlitePoolOptions::new()
         .max_connections(5)
         .connect(db_url)
