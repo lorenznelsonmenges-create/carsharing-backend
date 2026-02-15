@@ -1,0 +1,1 @@
+/home/lorenzm/Uni/AuP/Frontend_test/rust-frontend/target/wasm32-unknown-unknown/debug/rust-frontend.wasm: /home/lorenzm/Uni/AuP/Frontend_test/rust-frontend/src/carsharing.rs /home/lorenzm/Uni/AuP/Frontend_test/rust-frontend/src/lib.rs /home/lorenzm/Uni/AuP/Frontend_test/rust-frontend/src/main.rs

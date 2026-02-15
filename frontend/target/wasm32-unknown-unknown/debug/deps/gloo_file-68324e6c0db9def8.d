@@ -1,0 +1,11 @@
+/home/lorenzm/Uni/AuP/Frontend_test/rust-frontend/target/wasm32-unknown-unknown/debug/deps/gloo_file-68324e6c0db9def8.d: /home/lorenzm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-file-0.2.3/src/lib.rs /home/lorenzm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-file-0.2.3/src/blob.rs /home/lorenzm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-file-0.2.3/src/file_list.rs /home/lorenzm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-file-0.2.3/src/file_reader.rs /home/lorenzm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-file-0.2.3/src/object_url.rs
+
+/home/lorenzm/Uni/AuP/Frontend_test/rust-frontend/target/wasm32-unknown-unknown/debug/deps/libgloo_file-68324e6c0db9def8.rlib: /home/lorenzm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-file-0.2.3/src/lib.rs /home/lorenzm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-file-0.2.3/src/blob.rs /home/lorenzm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-file-0.2.3/src/file_list.rs /home/lorenzm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-file-0.2.3/src/file_reader.rs /home/lorenzm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-file-0.2.3/src/object_url.rs
+
+/home/lorenzm/Uni/AuP/Frontend_test/rust-frontend/target/wasm32-unknown-unknown/debug/deps/libgloo_file-68324e6c0db9def8.rmeta: /home/lorenzm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-file-0.2.3/src/lib.rs /home/lorenzm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-file-0.2.3/src/blob.rs /home/lorenzm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-file-0.2.3/src/file_list.rs /home/lorenzm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-file-0.2.3/src/file_reader.rs /home/lorenzm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-file-0.2.3/src/object_url.rs
+
+/home/lorenzm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-file-0.2.3/src/lib.rs:
+/home/lorenzm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-file-0.2.3/src/blob.rs:
+/home/lorenzm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-file-0.2.3/src/file_list.rs:
+/home/lorenzm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-file-0.2.3/src/file_reader.rs:
+/home/lorenzm/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-file-0.2.3/src/object_url.rs:
